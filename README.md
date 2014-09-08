@@ -12,3 +12,9 @@ Installation
 ------------
 
 In Chrome, choose Window > Extensions.  Drag ForceToHorse.crx into the page that appears.
+
+Once you've done that, go check out one of these pages:
+
+* https://news.search.yahoo.com/search?p=force
+* http://en.wikipedia.org/wiki/Force_(Star_Wars)
+* http://en.wikipedia.org/wiki/Forcemeat
