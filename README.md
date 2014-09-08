@@ -1,9 +1,11 @@
 Force to Horse Plus
 =============
 
-Chrome extension that replaces occurrences of 'force' with 'horse' aka https://github.com/jffry/force-to-horse.git
+Borrows liberally from https://github.com/hank/cloud-to-butt
 
-[Direct download of crx file](https://github.com/hank/force-to-horse/blob/master/ForceToHorse.crx?raw=true)
+Chrome extension that replaces occurrences of 'force' with 'horse' and 'forcing' with 'horseing' as described in today's XKCD: http://xkcd.com/1418/
+
+[Direct download of crx file](https://github.com/jffry/force-to-horse/blob/master/ForceToHorse.crx?raw=true)
 
 
 Installation
